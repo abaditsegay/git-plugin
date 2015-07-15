@@ -350,5 +350,6 @@
             <url>http://repo.jenkins-ci.org/public/</url>
         </pluginRepository>
     </pluginRepositories>
+<!-- changes for test -->
 </project>  
 
