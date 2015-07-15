@@ -21,19 +21,19 @@
   <description>Integrates Jenkins with GIT SCM</description>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin</url>
   
-  <properties>
-    <findbugs-maven-plugin.version>3.0.1</findbugs-maven-plugin.version>
-    <jacoco-maven-plugin.version>0.7.4.201502262128</jacoco-maven-plugin.version>
-    <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
-    <maven-enforcer-plugin.version>1.4</maven-enforcer-plugin.version>
-    <maven-hpi-plugin.version>1.113</maven-hpi-plugin.version>
-    <maven-localizer-plugin.version>1.23</maven-localizer-plugin.version>
-    <maven-release-plugin.version>2.5.2</maven-release-plugin.version>
-    <maven-site-plugin.version>3.4</maven-site-plugin.version>
-    <maven-surefire-plugin.version>2.18.1</maven-surefire-plugin.version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-  </properties>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <build>
     <pluginManagement>
