@@ -26,6 +26,7 @@ import org.kohsuke.stapler.export.ExportedBean;
  * origin/&#42;/thing
  * </pre>
  */
+//tets
 @ExportedBean
 public class BranchSpec extends AbstractDescribableImpl<BranchSpec> implements Serializable {
     private static final long serialVersionUID = -6177158367915899356L;
